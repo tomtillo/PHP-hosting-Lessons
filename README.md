@@ -11,5 +11,7 @@ Passing session variables from one page to other using session Variables
 
 ### Lots of Traffic 
 Once you set up your 
+1. Set up your robots.txt
+2. Find who is visiting your site ( USER_AGENT)
 
 ### SEO Tips
