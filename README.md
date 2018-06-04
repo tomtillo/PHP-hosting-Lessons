@@ -2,14 +2,14 @@
 
 These are some of the things you will invariably use after setting up your own PHP site from scratch 
 
-### Redirection 
+### 1.Redirection 
 Configure you .htaccess to enable redirection 
 
 
-### Session Variables 
+### 2.Session Variables 
 Passing session variables from one page to other using session Variables
 
-### Lots of Traffic 
+### 3.Robots and Search engine traffic
 Once you set up your 
 1. Set up your robots.txt
 2. Find who is visiting your site ( USER_AGENT)
@@ -34,6 +34,6 @@ Usually this means - Its a browser and a normal browsing session.
 ### SEO Tips
 
 
-### Redirect problems in Chrome - The nasty favicon.ico call by browser
+### 4.Redirect problems in Chrome - The nasty favicon.ico call by browser
 Check out the simple solution to this- 
 https://stackoverflow.com/questions/27344435/chrome-favicon-ico-get-request
